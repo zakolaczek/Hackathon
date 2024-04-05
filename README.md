@@ -6,3 +6,7 @@ To proper use needs:
 * MQTT Broker (Mosquitto tested)
 * InfluxDB
 * Optional GUI (Grafana tested)
+  
+Our Setup(InfluxDB ==> Grafana):
+
+![image](https://github.com/zakolaczek/Hackathon/assets/149005362/ef3c1228-eaca-4cd2-aa09-d1a8efbe3d49)
